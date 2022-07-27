@@ -10,3 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+Welcome to Esylab 👾. 
+EsyLab stands for Embedded Systems Laboratory. 
+It's a an organization founded by Eng. Benjamin Daaki to solve everyday problems using embedded systems.
