@@ -12,4 +12,4 @@
 -->
 Welcome to Esylab 👾. 
 EsyLab stands for Embedded Systems Laboratory. 
-It's a an organization founded by @daakibenja[https://github.com/daakibenja] to solve everyday problems using embedded systems.
+It's a an organization founded by [@daakibenja](https://github.com/daakibenja) to solve everyday problems using embedded systems.
